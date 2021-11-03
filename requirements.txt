@@ -1,3 +1,4 @@
+appdirs==1.4.4
 argon2-cffi==21.1.0
 attrs==21.2.0
 backcall==0.2.0
@@ -9,6 +10,7 @@ debugpy==1.5.0
 decorator==5.1.0
 defusedxml==0.7.1
 entrypoints==0.3
+importlib-metadata==4.8.1
 ipykernel==6.4.1
 ipython==7.28.0
 ipython-genutils==0.2.0
@@ -42,8 +44,10 @@ Pillow==8.4.0
 prometheus-client==0.11.0
 prompt-toolkit==3.0.20
 pycparser==2.20
+pyee==8.2.2
 Pygments==2.10.0
 pyparsing==2.4.7
+pyppeteer==0.2.6
 pyrsistent==0.18.0
 python-dateutil==2.8.2
 pytz==2021.3
@@ -53,12 +57,17 @@ pyzmq==22.3.0
 qtconsole==5.1.1
 QtPy==1.11.2
 scipy==1.7.1
+seaborn==0.11.2
 Send2Trash==1.8.0
 six==1.16.0
 terminado==0.12.1
 testpath==0.5.0
 tornado==6.1
+tqdm==4.62.3
 traitlets==5.1.0
+urllib3==1.26.7
 wcwidth==0.2.5
 webencodings==0.5.1
+websockets==9.1
 widgetsnbextension==3.5.1
+zipp==3.6.0
